@@ -38,7 +38,7 @@ body {
     background-color: #512da8;
 }
 
-.btn-reserve:hover {
+a:hover {
     text-decoration: none;
 }
 
