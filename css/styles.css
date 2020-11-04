@@ -41,3 +41,10 @@ body {
 .btn-reserve:hover {
     text-decoration: none;
 }
+
+.tab-content {
+    border-left: 1px solid #dddddd;
+    border-right: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+    padding: 10px;
+}
