@@ -74,3 +74,18 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+
+#loginModal, #reserveModal {
+    .modal-header {
+        background-color: $background-dark;
+    }
+    .modal-title {
+        color:floralwhite;
+    }
+    button {
+        color:floralwhite;
+    }
+    .modal-body {
+        background-color: $background-pale;
+    }
+}
