@@ -1,0 +1,9 @@
+https://www.coursera.org/learn/bootstrap-4/lecture/L6XP6/exercise-video-npm-scripts-part-1
+или
+https://d3c33hcgiwev3.cloudfront.net/1UAD7zTZEeinIApP-Dad-g.processed/full/360p/index.mp4?Expires=1605139200&Signature=cdb2H2zewtpMFwc7h2IlnieSCCCwb~gNzNgCnoTFnJbCaYqFfjoVKAfUftvwlMghRvRFaFtMAOVEPXmKdwN9E5Q4mFITD5ZaYHSjmC21~mTFFb7CzZtJYqix1jNCmjmGewnKQVaB-dpLpz4bxx~WWLBXKYlzNcQrnZyMEWXmMsw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+NPM Scripts Part 1 - ссылка на урок с объяснением подключения npm (параллельного запускадля отслеживания изменений в файлах scss и лайт сервера)
+    в файле package.json:
+    "start": "npm run watch:all",// запускает watch:all
+    ...
+    "watch:scss": "onchange 'css/*.scss' -- npm run scss",//обновляет в браузере измененный scss
+    "watch:all": "parallelshell 'npm run watch:scss' 'npm run lite'"//параллельный запуск watch:scss и lite
