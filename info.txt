@@ -1,9 +1,17 @@
+NPM Scripts Part 1
 https://www.coursera.org/learn/bootstrap-4/lecture/L6XP6/exercise-video-npm-scripts-part-1
 или
 https://d3c33hcgiwev3.cloudfront.net/1UAD7zTZEeinIApP-Dad-g.processed/full/360p/index.mp4?Expires=1605139200&Signature=cdb2H2zewtpMFwc7h2IlnieSCCCwb~gNzNgCnoTFnJbCaYqFfjoVKAfUftvwlMghRvRFaFtMAOVEPXmKdwN9E5Q4mFITD5ZaYHSjmC21~mTFFb7CzZtJYqix1jNCmjmGewnKQVaB-dpLpz4bxx~WWLBXKYlzNcQrnZyMEWXmMsw_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
-NPM Scripts Part 1 - ссылка на урок с объяснением подключения npm (параллельного запускадля отслеживания изменений в файлах scss и лайт сервера)
+ссылка на урок с объяснением подключения npm (параллельного запускадля отслеживания изменений в файлах scss и лайт сервера)
     в файле package.json:
     "start": "npm run watch:all",// запускает watch:all
     ...
     "watch:scss": "onchange 'css/*.scss' -- npm run scss",//обновляет в браузере измененный scss
     "watch:all": "parallelshell 'npm run watch:scss' 'npm run lite'"//параллельный запуск watch:scss и lite
+
+  NPM Scripts Part 2   
+  https://www.coursera.org/learn/bootstrap-4/lecture/UoY8G/exercise-video-npm-scripts-part-2
+  https://d3c33hcgiwev3.cloudfront.net/t2uc9DVXEeibMw6InFWbiA.processed/full/360p/index.mp4?Expires=1605139200&Signature=ijL~BF8f84uZlCEa81myHMcXDuqY9yfSOj6GbGebaEv-sNcDX-VMHouD8hKxQDbFRDZCklC1PITDrtMFFBRzOOWV4dirxWPo4jdTyAs7W6AXqe8YcOcLpqtTWkvwtoOF8gI-4xhEJrSgHY9Ft03Zlfcg9kKjwVAV~hcZJsDJ8R4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
+  установка всех скриптов для папки ДИСТ
+
+  
