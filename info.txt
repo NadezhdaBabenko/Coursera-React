@@ -17,3 +17,11 @@ https://d3c33hcgiwev3.cloudfront.net/1UAD7zTZEeinIApP-Dad-g.processed/full/360p/
   https://css-tricks.com/why-npm-scripts/ 
   https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/
   ссылка на статью полезная
+
+
+установка всего того же с Грант для запуска всего добра в терминале = grunt build
+Exercise (Video): Grunt Part 1
+https://www.coursera.org/learn/bootstrap-4/lecture/xFage/exercise-video-grunt-part-1
+
+Exercise (Video): Grunt Part 2
+https://www.coursera.org/learn/bootstrap-4/lecture/nWnp5/exercise-video-grunt-part-2
