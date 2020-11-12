@@ -14,4 +14,6 @@ https://d3c33hcgiwev3.cloudfront.net/1UAD7zTZEeinIApP-Dad-g.processed/full/360p/
   https://d3c33hcgiwev3.cloudfront.net/t2uc9DVXEeibMw6InFWbiA.processed/full/360p/index.mp4?Expires=1605139200&Signature=ijL~BF8f84uZlCEa81myHMcXDuqY9yfSOj6GbGebaEv-sNcDX-VMHouD8hKxQDbFRDZCklC1PITDrtMFFBRzOOWV4dirxWPo4jdTyAs7W6AXqe8YcOcLpqtTWkvwtoOF8gI-4xhEJrSgHY9Ft03Zlfcg9kKjwVAV~hcZJsDJ8R4_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
   установка всех скриптов для папки ДИСТ
 
-  
+  https://css-tricks.com/why-npm-scripts/ 
+  https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/
+  ссылка на статью полезная
