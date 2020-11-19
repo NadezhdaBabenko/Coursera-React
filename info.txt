@@ -25,3 +25,8 @@ https://www.coursera.org/learn/bootstrap-4/lecture/xFage/exercise-video-grunt-pa
 
 Exercise (Video): Grunt Part 2
 https://www.coursera.org/learn/bootstrap-4/lecture/nWnp5/exercise-video-grunt-part-2
+
+
+установка всего того же с Грант для запуска всего добра в терминале = gulp build
+https://www.coursera.org/learn/bootstrap-4/lecture/KQcjO/exercise-video-gulp-part-1
+https://www.coursera.org/learn/bootstrap-4/lecture/cG5Io/exercise-video-gulp-part-2
